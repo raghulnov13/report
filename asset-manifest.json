@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/raghulnov13/report.git/static/css/main.f12f3522.css",
-    "main.js": "/raghulnov13/report.git/static/js/main.dbafa8e9.js",
+    "main.css": "/raghulnov13/report.git/static/css/main.d02120ee.css",
+    "main.js": "/raghulnov13/report.git/static/js/main.c3838c5d.js",
     "static/js/453.966ff8e6.chunk.js": "/raghulnov13/report.git/static/js/453.966ff8e6.chunk.js",
     "index.html": "/raghulnov13/report.git/index.html",
-    "main.f12f3522.css.map": "/raghulnov13/report.git/static/css/main.f12f3522.css.map",
-    "main.dbafa8e9.js.map": "/raghulnov13/report.git/static/js/main.dbafa8e9.js.map",
+    "main.d02120ee.css.map": "/raghulnov13/report.git/static/css/main.d02120ee.css.map",
+    "main.c3838c5d.js.map": "/raghulnov13/report.git/static/js/main.c3838c5d.js.map",
     "453.966ff8e6.chunk.js.map": "/raghulnov13/report.git/static/js/453.966ff8e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f12f3522.css",
-    "static/js/main.dbafa8e9.js"
+    "static/css/main.d02120ee.css",
+    "static/js/main.c3838c5d.js"
   ]
 }
